@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="shop.Views.EditUser"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:shop.Views" xmlns:viewmodels="clr-namespace:shop.ViewModels" xmlns:services="clr-namespace:shop.Services" d:DataContext="{d:DesignInstance Type=viewmodels:EditUserViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="800">
+    <UserControl.Resources>
+        <services:NullableBoolToBoolConverter x:Key="NullableBoolToBoolConverter"/>
+    </UserControl.Resources>
+    <Grid Background="#DCCBFF" x:Name="UserInfoGrid">
+
+       
+        <Grid Margin="15">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="59*"/>
+                <ColumnDefinition Width="50*"/>
+                <ColumnDefinition Width="103*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+           
+            <StackPanel Orientation="Vertical" Grid.Column="0" Grid.RowSpan="7">
+                <Image  Width="170" Height="170" Source="{Binding Photo}" HorizontalAlignment="Left" Margin="0 15 0 0" />
+            </StackPanel>
+        
+            <TextBlock VerticalAlignment="Center" Grid.Row="0" Grid.Column="1" Text="{DynamicResource UserLogin }" Style="{DynamicResource TextBlockStyle}" />
+            <TextBlock VerticalAlignment="Center" Grid.Row="1" Grid.Column="1" Text="{DynamicResource UserName }" Style="{DynamicResource TextBlockStyle}"/>
+            <TextBlock VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Text="{DynamicResource UserSurname }" Style="{DynamicResource TextBlockStyle}"/>
+            <TextBlock VerticalAlignment="Center" Grid.Row="3" Grid.Column="1" Text="{DynamicResource UserEmail }" Style="{DynamicResource TextBlockStyle}"/>
+            <TextBlock VerticalAlignment="Center" Grid.Row="4" Grid.Column="1" Text="{DynamicResource UserPhone }" Style="{DynamicResource TextBlockStyle}"/>
+            <TextBlock VerticalAlignment="Center" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding ErrorMessage }" Style="{DynamicResource TextBlockStyle}" Foreground="Red"/>
+            <TextBlock VerticalAlignment="Center" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding OKMessage }" FontSize="14" Style="{DynamicResource TextBlockStyle}" Foreground="Green"/>
+
+            <TextBox  Grid.Row="0" Grid.Column="2" x:Name="login" Text="{Binding Login, Mode=TwoWay}" 
+          FontFamily="Comic Sans MS" FontSize="15" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+            <TextBox Grid.Row="1"  Grid.Column="2" x:Name="userName" Text="{Binding Name, Mode=TwoWay}"
+          FontFamily="Comic Sans MS" FontSize="15" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+            <TextBox Grid.Row="2" Grid.Column="2"  x:Name="userSurname" Text="{Binding Surname, Mode=TwoWay}"
+          FontFamily="Comic Sans MS" FontSize="15" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+            <TextBox Grid.Row="3" Grid.Column="2" x:Name="userEmail" Text="{Binding Email, Mode=TwoWay}"
+          FontFamily="Comic Sans MS" FontSize="15" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+            <TextBox Grid.Row="4"  Grid.Column="2" x:Name="userPhone" Text="{Binding Phone, Mode=TwoWay}"
+          FontFamily="Comic Sans MS" FontSize="15" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+
+            <Button Style="{DynamicResource RoundedButtonStyle}" Content="{DynamicResource Change}" Command="{Binding ChangePhotoCommand}" Width="170" HorizontalAlignment="Left"  Grid.Row="6" Grid.Column="0" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+            <Button Command="{Binding UpdUserCommand}" Style="{DynamicResource RoundedButtonStyle}" Content="{DynamicResource Save}" Grid.Row="6" Grid.Column="1" IsEnabled="{Binding IsChecked, ElementName=editModeCheckBox, Converter={StaticResource NullableBoolToBoolConverter}}"/>
+
+            <CheckBox x:Name="editModeCheckBox" FontFamily="Comic Sans MS" Content="{DynamicResource EditMode}" Grid.Column="2" Grid.Row="6" HorizontalAlignment="Right"/>
+
+        </Grid>
+
+    </Grid>
+</UserControl>

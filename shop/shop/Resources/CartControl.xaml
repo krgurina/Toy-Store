@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="shop.Resources.CartControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:shop.Resources" xmlns:viewmodels="clr-namespace:shop.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:OrderViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="250">
+    <Grid Background="#DCCBFF">
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="{DynamicResource AddCatr}" Style="{DynamicResource TextBlockStyle}" Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,0,37" Grid.RowSpan="2"/>
+            <TextBox Text="{Binding UserCartNumber}" materialDesign:HintAssist.Hint="{DynamicResource CatrNumber}"
+         materialDesign:HintAssist.IsFloating="True" FontSize="12" FontFamily="Comic Sans MS"  Grid.Row="1" Grid.ColumnSpan="2"/>
+
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding UserCartCVV}" materialDesign:HintAssist.Hint="CVV"
+          FontSize="12" FontFamily="Comic Sans MS"/>
+
+        </Grid>
+        
+    </Grid>
+</UserControl>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="shop.Views.AddReview"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:shop.Views" xmlns:viewmodels="clr-namespace:shop.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:AddReviewViewModel}"
+        mc:Ignorable="d"
+        Title="Оцените товар" Height="300" Width="400" FontSize="16"  ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Оцените товар" Style="{DynamicResource TextBlockStyle}"/>
+            <Slider Minimum="0" Maximum="5" Margin="0 10" Value="{Binding UserRating, Mode=TwoWay}"/>
+            <TextBlock Text="{Binding UserRating}" Margin="0 10" HorizontalAlignment="Center" Style="{DynamicResource TextBlockStyle}"/>
+            <TextBlock Text="Напишите отзыв" Style="{DynamicResource TextBlockStyle}"/>
+            <TextBox Text="{Binding Review}" Width="240" FontFamily="Comic Sans MS"/>
+            <Button Command="{Binding SendReviewCommand}" Style="{DynamicResource RoundedButtonStyle}" Content="оценить" Margin="0 15"/>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

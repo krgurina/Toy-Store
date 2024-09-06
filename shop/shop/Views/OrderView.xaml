@@ -1,0 +1,38 @@
+﻿<Page x:Class="shop.Views.OrderView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:shop.Views"  xmlns:components="clr-namespace:shop.Resources" xmlns:viewmodels="clr-namespace:shop.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:OrderViewModel}"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="1030"
+      Title="OrderView">
+
+    <Grid Background="White">
+        <Canvas>
+            <Button Style="{DynamicResource RoundedButtonStyle}" Content="{DynamicResource Back}" Command="{Binding OpenCartCommand}" Width="100" Margin="15"/>
+        </Canvas>
+        <StackPanel x:Name="stackPanel"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 15">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Style="{DynamicResource TextBlockStyle}">К оплате:  </TextBlock>
+                <TextBlock x:Name="CartSumTxt" Style="{DynamicResource TextBlockStyle}" Text="{Binding Summary,StringFormat= \{0\} BYN}"/>
+            </StackPanel>
+            <TextBlock Text="{DynamicResource ChoosePay}" Style="{DynamicResource TextBlockStyle}"  Margin="0 10"/>
+
+            <RadioButton GroupName="Pay" FontFamily="Comic Sans MS" Content="{DynamicResource ChoosePay1}" x:Name="pay1" IsChecked="{Binding IsRadioButton1Checked}"/>
+            <ContentControl Content="{Binding ShowUserControl}"/>
+            <RadioButton GroupName="Pay" FontFamily="Comic Sans MS" Content="{DynamicResource ChoosePay2}" x:Name="pay2"/>
+            <RadioButton GroupName="Pay" FontFamily="Comic Sans MS" Content="{DynamicResource ChoosePay3}" x:Name="pay3"/>
+
+            <TextBlock Text="{DynamicResource ChooseDelivery}"  Style="{DynamicResource TextBlockStyle}" Margin="0 10"/>
+            <RadioButton GroupName="Technologies" FontFamily="Comic Sans MS" Content="{DynamicResource ChooseDelivery1}" x:Name="delivery1" IsChecked="{Binding IsRadioButton2Checked}"/>
+            <ContentControl Content="{Binding ShowUserControl2}"/>
+            <RadioButton GroupName="Technologies" FontFamily="Comic Sans MS" Content="{DynamicResource ChooseDelivery2}" x:Name="delivery2"/>
+            <TextBlock Style="{DynamicResource TextBlockStyle}" Text="{Binding ErrorMessage}" Foreground="Red" Margin="0 10" FontSize="12"/>
+            <Button Style="{DynamicResource RoundedButtonStyle}" Content="заказать" Command="{Binding AddOrder}" Width="100" Margin="0 15"/>
+            <TextBlock Style="{DynamicResource TextBlockStyle}" Text="{DynamicResource OrderInfo}" Margin="0 10" FontSize="12"/>
+
+        </StackPanel>
+
+    </Grid>
+</Page>

@@ -1,0 +1,260 @@
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.csproj.AssemblyReference.cache
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\Lang-RU.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\light.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\RoundedButton.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\TextButton.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\AdressControl.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\BindablePasswordBox.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\CartControl.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\AddReview.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\AddProductView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\Admin.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\CategoriesView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\OrdersView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\UsersView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\AuthView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\CartView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\DetailedInfoView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\EditUser.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\ForgotPassView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\OrderView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\RegView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\SearchView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\SuccessRegView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\UserCabView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\App.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop_MarkupCompile.cache
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop_MarkupCompile.lref
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\shop.exe
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\shop.deps.json
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\shop.runtimeconfig.json
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\shop.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\shop.pdb
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\EntityFramework.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\App.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\AdressControl.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\BindablePasswordBox.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\CartControl.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\AddReview.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\AddProductView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\Admin.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\CategoriesView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\OrdersView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\Admin\UsersView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\AuthView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\CartView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\DetailedInfoView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\EditUser.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\ForgotPassView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\HomeView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\LoginView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\OrderView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\RegView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\SearchView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\SuccessRegView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Views\UserCabView.baml
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.g.resources
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.AssemblyInfoInputs.cache
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.AssemblyInfo.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.csproj.CoreCompileInputs.cache
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.csproj.CopyComplete
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.dll
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\refint\shop.dll
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.pdb
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\shop.genruntimeconfig.cache
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\ref\shop.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Caliburn.Micro.Core.dll
+F:\Курсач\shop\shop\bin\Debug\net6.0-windows\Notifications.Wpf.dll
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\NotificationControl.g.cs
+F:\Курсач\shop\shop\obj\Debug\net6.0-windows\Resources\NotificationControl.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\shop.exe
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\shop.deps.json
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\shop.runtimeconfig.json
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\shop.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\ref\shop.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\shop.pdb
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Caliburn.Micro.Core.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\EntityFramework.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Humanizer.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\Notifications.Wpf.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.csproj.AssemblyReference.cache
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\Lang-RU.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\light.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\RoundedButton.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\TextButton.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\AdressControl.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\BindablePasswordBox.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\CartControl.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\NotificationControl.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\AddReview.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\AddProductView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\Admin.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\CategoriesView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\OrdersView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\UsersView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\AuthView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\CartView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\DetailedInfoView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\EditUser.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\ForgotPassView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\OrderView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\RegView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\SearchView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\SuccessRegView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\UserCabView.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\App.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop_MarkupCompile.cache
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop_MarkupCompile.lref
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\App.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\MainWindow.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\AdressControl.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\BindablePasswordBox.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\CartControl.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Resources\NotificationControl.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\AddReview.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\AddProductView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\Admin.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\CategoriesView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\OrdersView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\Admin\UsersView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\AuthView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\CartView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\DetailedInfoView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\EditUser.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\ForgotPassView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\HomeView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\LoginView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\OrderView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\RegView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\SearchView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\SuccessRegView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\Views\UserCabView.baml
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.g.resources
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.AssemblyInfoInputs.cache
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.AssemblyInfo.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.csproj.CoreCompileInputs.cache
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.csproj.CopyComplete
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\ref\shop.dll
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.pdb
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\shop.genruntimeconfig.cache

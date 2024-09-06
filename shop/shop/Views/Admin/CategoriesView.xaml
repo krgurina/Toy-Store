@@ -1,0 +1,52 @@
+﻿<Page x:Class="shop.Views.Admin.CategoriesView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:shop.Views.Admin"
+       xmlns:viewModel="clr-namespace:shop.ViewModels.Admin" d:DataContext="{d:DesignInstance Type=viewModel:CategoriesViewModel}"
+      mc:Ignorable="d" 
+      d:DesignHeight="541" d:DesignWidth="800"
+      Title="CategoriesView" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="0">
+            <StackPanel Margin="15" Orientation="Vertical">
+                <StackPanel  Orientation="Horizontal">
+                    <TextBlock FontSize="15" Text="Название"/>
+                    <TextBox Text="{Binding Name}" x:Name="CategoryNameTxB" Width="217" />
+                </StackPanel>
+                <Button Content="{DynamicResource Photo}" Command="{Binding AddPhotoCommand}" Margin="0 15" Foreground="White"/>
+                <Button Content="{DynamicResource Add}" Command="{Binding AddCategoryCommand}" Foreground="White"/>
+                <Button Content="{DynamicResource Delete}" Command="{Binding DeleteCategoryCommand}"  Margin="0 15" Foreground="White"/>
+                <TextBlock Text="{Binding ErrorMessage}" Foreground="Red"/>
+                <TextBlock Text="{Binding OKMessage}"/>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBox x:Name="SearchRequest" Text="{Binding TextForSearch}" Width="180" Margin="0 0 15 0" VerticalAlignment="Center"/>
+                    <Button Content="{DynamicResource Search}"  Command="{Binding SearchCommand}" Foreground="White"/>
+                </StackPanel>
+            </StackPanel>
+
+        </Grid>
+
+
+        <Grid Grid.Column="1" Grid.RowSpan="2">
+            <DataGrid x:Name="ProductsGrid" SelectedItem="{Binding SelectedItemForDataGrid, UpdateSourceTrigger=PropertyChanged}" ItemsSource="{Binding Categories, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False"  IsReadOnly="True">
+                <DataGrid.Columns >
+                    <DataGridTextColumn Header="ID" Width="0.5*" Binding="{Binding CategoryId}"/>
+                    <DataGridTextColumn Header="{DynamicResource Category}" Width="2*" Binding="{Binding Name}"/>
+                    <DataGridTextColumn Header="{DynamicResource Photo}" Width="2*" Binding="{Binding ImageLink}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+   
+    </Grid>
+</Page>

@@ -1,0 +1,20 @@
+﻿shop
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\obj\Debug\net6.0-windows\
+shop
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+F:\НА ФЛЕШКУ\САМЫЙ ИТОГОВЫ\shop\shop\App.xaml
+28-1032490788
+
+65-2035574012
+231-1881498064
+MainWindow.xaml;Resources\AdressControl.xaml;Resources\BindablePasswordBox.xaml;Resources\CartControl.xaml;Resources\Lang-RU.xaml;Resources\light.xaml;Resources\NotificationControl.xaml;Resources\RoundedButton.xaml;Resources\TextButton.xaml;Views\AboutUsView.xaml;Views\AddReview.xaml;Views\Admin\AddProductView.xaml;Views\Admin\Admin.xaml;Views\Admin\CategoriesView.xaml;Views\Admin\OrdersView.xaml;Views\Admin\UsersView.xaml;Views\AuthView.xaml;Views\CartView.xaml;Views\DetailedInfoView.xaml;Views\EditUser.xaml;Views\ForgotPassView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\OrderView.xaml;Views\RegView.xaml;Views\SearchView.xaml;Views\SuccessRegView.xaml;Views\UserCabView.xaml;
+
+False
+

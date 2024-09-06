@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resources\AdressControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resources\BindablePasswordBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resources\CartControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resources\NotificationControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddReview.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DetailedInfoView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EditUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ForgotPassView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SuccessRegView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\AdressControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\BindablePasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\CartControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Lang-RU.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\light.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\NotificationControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\RoundedButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\TextButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AboutUsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Admin\AddProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddReview.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Admin\Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Admin\CategoriesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Admin\OrdersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Admin\UsersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AuthView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CartView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DetailedInfoView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EditUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ForgotPassView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RegView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SearchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SuccessRegView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserCabView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

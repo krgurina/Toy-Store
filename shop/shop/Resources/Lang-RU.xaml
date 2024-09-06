@@ -1,0 +1,82 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="Home">Главная</v:String>
+    <v:String x:Key="Cart">Корзина</v:String>
+    <v:String x:Key="About">О нас</v:String>
+    <v:String x:Key="Catalog">Каталог</v:String>
+    <v:String x:Key="Usercab">Профиль</v:String>
+    <v:String x:Key="Back">Назад</v:String>
+    
+    <v:String x:Key="Search">Поиск</v:String>
+    <v:String x:Key="Name">Название:</v:String>
+    <v:String x:Key="Title">Название:</v:String>
+    <v:String x:Key="Price">Цена:</v:String>
+    <v:String x:Key="AddToCart">В корзину:</v:String>
+    <v:String x:Key="Description">Описание:</v:String>
+    <v:String x:Key="Welcome">Добро пожаловать</v:String>
+    <v:String x:Key="UserInfo">Информация о пользователе</v:String>
+    
+    <!--авторизация/регистрация-->
+    <v:String x:Key="UserLogin">Логин</v:String>
+    <v:String x:Key="UserName">Имя</v:String>
+    <v:String x:Key="UserSurname">Фамилия</v:String>
+    <v:String x:Key="UserEmail">Электронная почта</v:String>
+    <v:String x:Key="UserPhoneFormat">Телефон (+375XXXXXXXXX)</v:String>
+    <v:String x:Key="UserPhone">Телефон</v:String>
+    <v:String x:Key="UserPassword">Пароль</v:String>
+    <v:String x:Key="UserPassword2">Повторите пароль</v:String>
+    <v:String x:Key="UserNewPassword">Новый пароль</v:String>
+    <v:String x:Key="UserChangePassword">Изменить пароль</v:String>
+    <v:String x:Key="RememberMe">Запомнить меня</v:String>
+
+    <v:String x:Key="ForgotPass">Забыли пароль?</v:String>
+    <v:String x:Key="HaveAcc">Нет аккаунта?</v:String>
+    <v:String x:Key="GetRegistration">Зарегистрируйтесь!</v:String>
+    <v:String x:Key="GetRegistration2">Зарегистририроваться</v:String>
+    <v:String x:Key="Enter">Войти</v:String>
+    <!--<v:String x:Key="RegSuccess">Вы успешно зарегистировались!</v:String>-->
+    <v:String x:Key="OnMain">На главную</v:String>
+    
+    
+    
+    
+    <v:String x:Key="ChooseCategory">Выберите категорию</v:String>
+    <v:String x:Key="ChooseSorting">Выберите сортировку</v:String>
+
+
+    <v:String x:Key="Save">Сохранить</v:String>
+    <v:String x:Key="Change">Изменить</v:String>
+    <v:String x:Key="EditMode">Редактирование</v:String>
+
+    <!--заказ-->
+    <v:String x:Key="ChoosePay">Выберите способ оплаты</v:String>
+    <v:String x:Key="ChoosePay1">Картой онлайн</v:String>
+    <v:String x:Key="ChoosePay2">Картой при получении</v:String>
+    <v:String x:Key="ChoosePay3">Наличными при получении</v:String>
+    <v:String x:Key="ChooseDelivery">Выберите способ доставки</v:String>
+    <v:String x:Key="ChooseDelivery1">Доставка курьером</v:String>
+    <v:String x:Key="ChooseDelivery2">Самовывоз по адресу г Минск, ул Белорусская 21 </v:String>
+    <v:String x:Key="OrderInfo">После заказа с вами свяжется оператор для подтверждения заказа</v:String>
+
+    <v:String x:Key="CatrNumber">Номер карты</v:String>
+    <v:String x:Key="AddCatr">Заполните данные карты</v:String>
+    <v:String x:Key="AddAdress">Введите ваш адрес</v:String>
+    <v:String x:Key="City">Город</v:String>
+    <v:String x:Key="Adress">Адрес(город, улица, дом, квартира)</v:String>
+
+    <!--админ-->
+    <v:String x:Key="Add">Добавить</v:String>
+    <v:String x:Key="Delete">Удалить</v:String>
+    <v:String x:Key="Category">Категория</v:String>
+    <v:String x:Key="Photo">Фото</v:String>
+
+    <v:String x:Key="OrderState1">В обработке</v:String>
+    <v:String x:Key="OrderState2">Отправлен</v:String>
+    <v:String x:Key="OrderState3">Доставлен</v:String>
+
+
+
+
+
+</ResourceDictionary>

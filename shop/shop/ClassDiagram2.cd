@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="shop.Commands.CommandReference" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACAAUAAEAABAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Commands\CommandReference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="shop.Commands.DelegateCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAQACCAQQAAEQAAAAAAAAAAAAAAAAAAACAAEA=</HashCode>
+      <FileName>Commands\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="shop.Database.AppConnection" Collapsed="true">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAGAAAQAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Database\AppConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Models.Cart" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEDAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Cart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Models.Category" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\Categories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Models.Order" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAEDAEAAAAAAAAAAAAAEAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Models.Product" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAggEAAAAAAAAAAAAAAAAEAAAACAAAACAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Models.Review" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAAAAAAAAAAABAAAQAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Review.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Models.Users" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgCAAAAAAAAQABAAAAAACAAAQIAAAAAA=</HashCode>
+      <FileName>Models\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Repository.ManagerDBRepository&lt;TEntity&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAABABAAAAALAAAAAABAEAAAAAAAIAAAAA=</HashCode>
+      <FileName>Repository\ManagerDBRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="shop.Services.EmailSenderService" Collapsed="true">
+    <Position X="12.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\EmailSenderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.Services.SecurePassService" Collapsed="true">
+    <Position X="14.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\SecurePassService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.unitOfWork.UnitOfWork" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAIYAAACARAAAAEAAABBAAAAAAAAAgAAEAIMAAACA=</HashCode>
+      <FileName>unitOfWork\UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="shop.ViewModels.Admin.AddProductViewModel" Collapsed="true">
+    <Position X="30.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEJAAAASQAkiEgAKJABQIAAAQGAEBIgAAAKhAgACAQ=</HashCode>
+      <FileName>ViewModels\Admin\AddProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.Admin.AdminViewModel" Collapsed="true">
+    <Position X="30.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAAAIAAAAAAAEAAgABAAoAAAAAAAAACgQA=</HashCode>
+      <FileName>ViewModels\Admin\AdminViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.Admin.CategoriesViewModel">
+    <Position X="23.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIBAAAAAQAgCAAAIABAMQQAwGAEAAAAAAAgAAACAA=</HashCode>
+      <FileName>ViewModels\Admin\CategoriesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.Admin.OrdersViewModel">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAABAAAAAAAAAAIEAAACBABAAQAAQAEAAAAACAA=</HashCode>
+      <FileName>ViewModels\Admin\OrdersViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.Admin.UsersViewModel" Collapsed="true">
+    <Position X="30.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ViewModels\Admin\UsersViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.AboutUsViewModel" Collapsed="true">
+    <Position X="32" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAIABAAAAAQAAAAAAAAgAAAEIAAA=</HashCode>
+      <FileName>ViewModels\AboutUsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.AddReviewViewModel" Collapsed="true">
+    <Position X="30.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACECAAAhAg=</HashCode>
+      <FileName>ViewModels\AddReviewViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.AuthViewModel" Collapsed="true">
+    <Position X="32" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSAAAEAAAAAAAAAAgAAAAIAAAAAAAACAIAQAACAkAA=</HashCode>
+      <FileName>ViewModels\AuthViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.CartViewModel" Collapsed="true">
+    <Position X="32" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAWwAAgBAAAYAASAAgAAgAAAABAAAAAAAACAAAAAtAA=</HashCode>
+      <FileName>ViewModels\CartViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.DetailedInfoViewModel" Collapsed="true">
+    <Position X="30.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAASIEAIAAAQCAAABAAAAAQAABAAAAAAAAAAAgACECI=</HashCode>
+      <FileName>ViewModels\DetailedInfoViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.EditUserViewModel" Collapsed="true">
+    <Position X="32" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAEAISAAACEBAAAEAQQABQAEAAAgAAAQIAAAASA=</HashCode>
+      <FileName>ViewModels\EditUserViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.ForgotPassViewModel" Collapsed="true">
+    <Position X="30.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAACAAAAAgAAAAAAgCAEAAAAiAAAQAAAAEAA=</HashCode>
+      <FileName>ViewModels\ForgotPassViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.HomeViewModel" Collapsed="true">
+    <Position X="32" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAAAgAAAAKAAEAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HomeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.MainViewModel">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAMAAAARAAgIAAIIAAAEAAAABAAAAAIAAAAAAAgaA=</HashCode>
+      <FileName>ViewModels\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.OrderViewModel">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QSKgIAAgAAAAAAAAAAgQACAAAAMgAABGAABAxhAA4SE=</HashCode>
+      <FileName>ViewModels\OrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.RegViewModel">
+    <Position X="18" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAACCAAAAAgAAAAAQABAEAAAEiAAAQIAAAAAA=</HashCode>
+      <FileName>ViewModels\RegViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.SearchViewModel">
+    <Position X="25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEQIAFBABAAyAgAFIIIAAAAAAAAECAAAECgBABAkKQ=</HashCode>
+      <FileName>ViewModels\SearchViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.SuccessRegViewModel" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAgAAAAAAAAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>ViewModels\SuccessRegViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.UserCabViewModel">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEBAAADACIAAEAAAABECAQABAkEAAAIAEAQJABAAQQ=</HashCode>
+      <FileName>ViewModels\UserCabViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop.ViewModels.ViewModelBase" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="shop.Repository.IRepository&lt;TEntity&gt;" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAABAAAAABAAAAAABAEAAAAAAAIAAAAA=</HashCode>
+      <FileName>Repository\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
